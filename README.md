@@ -12,6 +12,8 @@ season-wise trends, and venue analysis using Python and Power BI.
 
 ## Dataset
 - matches.csv
+-deliveries.csv
+
 
 ## Key Analysis
 - Total matches, teams, and seasons
