@@ -11,8 +11,8 @@ season-wise trends, and venue analysis using Python and Power BI.
 - GitHub
 
 ## Dataset
-- matches.csv
--deliveries.csv
+matches.csv
+deliveries.csv
 
 
 ## Key Analysis
